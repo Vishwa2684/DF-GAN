@@ -79,7 +79,7 @@ The released model achieves better performance than the CVPR paper version.
 | Model | CUB-FID↓ | COCO-FID↓ |NOP↓ |
 | --- | --- | --- | --- |
 | DF-GAN(paper) | 14.81 | 19.32 | 19M |
-| DF-GAN(pretrained model) | **12.10** | **15.41** | **18M** |
+| DF-GAN(pretrained model) | **12.10** | **15.47** | **18M** |
 
 
 
